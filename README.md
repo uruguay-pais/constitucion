@@ -1,4 +1,7 @@
-scraper
+Constitucion uruguaya
 =======
 
-Scraps the Constitutional texts from the Uruguayan Parliament website
+
+Escrapea los textos de la constitucion desde la web del parlamento Uruguay
+
+Creado por @GustavoArmagno en https://github.com/constitucion-uruguay
